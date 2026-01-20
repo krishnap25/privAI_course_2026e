@@ -27,7 +27,9 @@ You can collaborate with others and freely consult online references and books o
 You may use LLMs for your homework and project provided you meet the following conditions: 
 - You list the name of the LLM and the exact prompt verbatim. 
 - A summary of how the LLM helped.
+- Use of LLM-based coding assistants is allowed provided you give a summary of what part of the work was done by the LLM and how much input you provided.
 
+Note: we encourage you to first solve the homework problems yourself without LLM support, especially the theoretical ones. That's the best way to learn.
 
 Academic violations will be handled by the IITM Senate Discipline and Welfare (DISCO) Committee. 
 Typically, the first violation instance will result in ZERO marks for the corresponding component of the Course Grade and a drop of one penalty in the overall course grade. 
