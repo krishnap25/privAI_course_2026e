@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: PrivAI Course 2024
+title: PrivAI Course 2026
 tagline: Privacy in AI
 description: A modern, highly customizable, responsive Jekyll template for course websites
 author: Krishna
-baseurl: '/privAI_course_2024o' # the subpath of your site, e.g. /blog
+baseurl: '/privAI_course_2026e' # the subpath of your site, e.g. /blog
 url: 'https://krishnap25.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
