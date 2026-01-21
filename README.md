@@ -1,6 +1,6 @@
 ---
 layout: home
-title: PrivAI Course (July-Nov 2024)
+title: PrivAI Course (Jan-May 2026)
 nav_exclude: true
 permalink: /:path/
 seo:
@@ -8,9 +8,9 @@ seo:
   name: Privacy in AI
 ---
 
-# DA 5001 / DA 6400: Privacy in AI 
+# DA 5001 / DA 6336: Privacy in AI 
 
-### Jul-Nov 2024 @ IIT Madras in _CRC 205_ in Slot J ([weekly schedule](schedule.md))
+### Jan-May 2026 @ IIT Madras in _CRC 201_ in Slot J ([weekly schedule](schedule.md))
 
 ### Instructor: [Krishna Pillutla](https://krishnap25.github.io/)
 
@@ -54,19 +54,19 @@ We will use [Piazza]() for communication and [Gradescope]() for submitting assig
 
 ## Homework
 
-We will have 4 homeworks. This excludes HW0, released on the first day of class, is meant to be a review (and will not have a corresponding mini-quiz).
+We will have 4 homeworks, plus the review HW0 released on the first day of class. Each HW (except HW0) will have a corresponding mini-quiz in class.
 * [HW0](/resources/hw0.pdf): Released Jan. 20th, due Jan. 30th at 11:59 PM. HW0 submission is mandatory, although it is ungraded.
 
-The evaluation will be as follows:
-* theory: ungraded. But we will have a mini-quiz based on (variants of) the HW problems
+The evaluation for HW1-4 will be as follows:
+* theory: ungraded. But we will have a mini-quiz based on (variants of) the HW problems after each HW is due. The mini-quiz will be in-class, on-paper, and closed notes.
 * implementation: the outputs (e.g. plots) will be graded as per usual.
 
 ### Instructions
 - Please submit your solutions via Gradescope (link TBD).
-- For the mathematical problems (in the mini-quizzes), please be succinct and justify all the steps. Proofs are required to be fully rigorous and justified.
+- For the mathematical problems (in the mini-quizzes), please be succinct and justify all the steps. Proofs are required to be fully rigorous and justified, similar to how we present them in class.
 - You have a total budget of 3 late days for homeworks, no questions asked. A submission a few minutes after the deadline will also count as a full late day. Further delays after exhausting the late day budget will result in a zero grade for that homework.
 - No late days will be allowed for project-related deadlines.
-- For coding assignments, please submit add the exported PDF to the rest of your solutions and submit to gradescope. Please also separately submit your executable JuPyTer notebook to Gradescope.
+- For coding assignments, please submit the exported PDF to gradescope. Please also separately submit your executable JuPyTer notebook to Gradescope.
   
 
 ### Collaboration Policy
@@ -75,6 +75,9 @@ You can collaborate with others on the homework, provided:
 * You acknowledge everybody you worked with in your submission. Similarly, external resources you consulted should also be cited.
 * You write your own solutions and code independently and from scratch. You are required to do this without referring any material from joint discussions including written notes or photos.  In other words, you must internalise any solution/code deeply enough to recreate it fully by yourself before submitting it as your own work.
 * Copy-pasting is strictly not allowed.
+
+### LLM Policy
+Use of LLMs is allowed for all parts of the course (except exams), provided you acknowledge their use. That is, you must provide the name of the LLM, the exact promot, and a summary of how it helped.
 
 ## Course Project
 
@@ -87,7 +90,7 @@ The course project can be one of the three types:
 * **In-depth paper analysis**: read and analyse the results of a theoretical paper, and reproduce the proofs in your own words.
 
 The project will require a proposal (mid-March), a midpoint review (early April), a presentation (last week of classes), and a final report (end-sem week).
-These details will be annouced in the calendar.
+The exact dates and further details will be annouced in the calendar.
 
 ## Resources
 
