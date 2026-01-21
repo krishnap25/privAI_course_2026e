@@ -23,23 +23,23 @@ schedule:
       - name: Lab
         start: 5:00 PM
         end: 6:00 PM
-        location: CRC 205
+        location: CRC 201
   - name: Tuesday
   - name: Wednesday
     events:
       - name: Lecture
         start: 2:00 PM
         end: 3:30 PM
-        location: CRC 205
+        location: CRC 201
       - name: Office Hours
         start: 3:30 PM
         end: 4:30 PM
-        location: SSB 204
+        location: NAC2 640
   - name: Thursday
     events:
       - name: Lecture
         start: 3:30 PM
         end: 5:00 PM
-        location: CRC 205
+        location: CRC 201
   - name: Friday
 ---
