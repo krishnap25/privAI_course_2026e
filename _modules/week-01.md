@@ -4,7 +4,7 @@ title: Week 1 - Introduction and Privacy Attacks
 
 Jan 29
 : Introduction & Logistics
-    : [Slides](../resources/lecture1.pdf)  &nbsp; Reading - Sec. 1.1-1.3 of [DPAI Book](https://www.emerald.com/books/edited-volume/20854/Differential-Privacy-in-Artificial)  Extra - [Narayanan & Shmatikov (2008)](https://www.cs.utexas.edu/~shmat/shmat_oak08netflix.pdf)
+    : [Slides](../resources/lecture1.pdf)  &nbsp; Reading - Sec. 1.1-1.3 of [DPAI Book](https://www.emerald.com/books/edited-volume/20854/Differential-Privacy-in-Artificial)  Extra - [Narayanan & Shmatikov (2008)](https://arxiv.org/pdf/cs/0610105)
 : **HW 0 released**{: .label .label-blue }  [HW0 PDF](../resources/hw0.pdf)
 
 Jan 21
