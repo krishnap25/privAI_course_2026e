@@ -98,7 +98,7 @@ The references and reading (including book chapters and papers) for each lecture
 This will include parts of the following monographs/textbooks (PDFs available for free online):
 * [DPAI book]  Fioretto, Van Hentenryck, et al. (2025).  Differential Privacy in Artificial Intelligence: From, Theory to Practice. Free PDF at: [webpage](https://www.emerald.com/books/edited-volume/20854/Differential-Privacy-in-Artificial)
 * Dwork & Roth (2014). The Algorithmic Foundations of Differential Privacy. [PDF](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
-* Vadhan (2017). The Complexity of Differential Privacy. [PDF](https://privacytools.seas.harvard.edu/files/complexityprivacy_1.pdf)
+* Vadhan (2017). The Complexity of Differential Privacy. [PDF](https://salil.seas.harvard.edu/sites/g/files/omnuum4266/files/salil/files/manuscript_2017.pdf)
 * Near & Abuah (2021). Programming Differential Privacy. [PDF & Notebooks](https://programming-dp.com/)
 
 <!-- [differentialprivacy.org](https://differentialprivacy.org/resources/) lists several other handy resources.-->
