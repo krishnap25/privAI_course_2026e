@@ -4,7 +4,7 @@ title: Week 2 - Differential Privacy Basics I
 
 Jan 28
 : Introduction to differential privacy (DP)
-  : Reading - Sec. 1.4 of [DPAI Book](https://www.emerald.com/books/edited-volume/20854/Differential-Privacy-in-Artificial)  Extra - Sec. 1.4-1.6 of [Vadhan](https://privacytools.seas.harvard.edu/files/privacytools/files/complexityprivacy_1.pdf)
+  : Reading - Sec. 1.4 of [DPAI Book](https://www.emerald.com/books/edited-volume/20854/Differential-Privacy-in-Artificial)  Extra - Sec. 1.4-1.6 of [Vadhan](https://salil.seas.harvard.edu/sites/g/files/omnuum4266/files/salil/files/manuscript_2017.pdf)
 
 Jan 29
 : DP - basic composition
