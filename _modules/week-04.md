@@ -2,7 +2,9 @@
 title: Week 4 - DP Basics
 ---
 
-Feb 9 : Lab{: .label .label-purple } PyTorch Review : Additional tutorials
+Feb 9
+: **Lab**{: .label .label-purple } PyTorch Review
+  : [Additional tutorials](https://pytorch.org/tutorials/beginner/introyt) 
 
 Feb 11
 : Privacy Loss Distribution
