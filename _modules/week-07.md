@@ -10,5 +10,4 @@ Mar 4
 : Non-instructional Day: Holi
 
 Mar 5
-: (Online) Guest Lecture by [Anjalie Field](https://anjalief.github.io/) on applied privacy in NLP domain.
-
+: (Online) Guest Lecture by [Anjalie Field](https://anjalief.github.io/) on applied privacy in NLP domain
