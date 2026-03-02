@@ -24,12 +24,22 @@ You can collaborate with others and freely consult online references and books o
 - You are also allowed to spin off a part of your own research project as this course project, as long as you use some tools introduced in the course. Please check this with the instructor at the time of submission of the course proposal.
 
 **LLM Policy**:
-You may use LLMs for your homework and project provided you meet the following conditions: 
+You may use LLMs for your homework provided you meet the following conditions: 
 - You list the name of the LLM and the exact prompt verbatim. 
 - A summary of how the LLM helped.
 - Use of LLM-based coding assistants is allowed provided you give a summary of what part of the work was done by the LLM and how much input you provided.
 
 Note: we encourage you to first solve the homework problems yourself without LLM support, especially the theoretical ones. That's the best way to learn.
+
+**LLM Usage Policy for Project**:
+- LLMs may **not** be used to generate or substantially revise any written portion of the project deliverables, including the proposal, mid-review report and final report. Forbidden use-cases include generating an outline, drafting text, rewriting text (e.g. to avoid plagiarism detection), or paraphrasing text in your submission. All written content must be your own intellectual and stylistic work.
+     - Grammar-only proofreading of text you wrote yourself is allowed.
+- You can use the LLMs for other uses, such as programming/coding, helping understand background/literature, finding related works, conceptual clarifications, brainstorming ideas, or other means to understand the material.
+- All information must be independently verified. In particular, avoiding incorrect or hallucinated information is entirely your responsibility.
+LLMs can frequently hallucinate math (equations/theorems), citations, references, experimental claims. For example, any citation that cannot be verified in DBLP, Google Scholar, Semantic Scholar or similar will be considered hallucinated.
+- Any hallucinated or fabricated material included in your submission will be treated as academic misconduct and may result in significant penalties.
+- You may be asked to explain and defend any part of your submission. "The LLM produced it" is not a valid defence for a lack of understanding or hallucinated content.
+- **Disclosure**: Include an appendix describing: (a) whether you used an LLM, (b) for what purpose, (c) how you verified its outputs. Failure to disclose LLM usage may be treated as a violation of academic integrity.
 
 Academic violations will be handled by the IITM Senate Discipline and Welfare (DISCO) Committee. 
 Typically, the first violation instance will result in ZERO marks for the corresponding component of the Course Grade and a drop of one penalty in the overall course grade. 
