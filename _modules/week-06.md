@@ -11,7 +11,6 @@ Feb 25
   : Reading - Sec. 3.6.4 and 3.6.5 of [DPAI book](https://www.emerald.com/books/edited-volume/20854/Differential-Privacy-in-Artificial)
 
 Feb 26
-: Stochastic Gradient Descent (SGD) with DP & Practical Considerations
-    : Reading - Sec. 4.2 of [Ponomareva et al.](https://arxiv.org/pdf/2303.00654)
-       (Sec. 5 is also strongly recommended)
+: Subsampled Gaussian Mechanism
+    : Reading - [Mironov et al.](https://arxiv.org/pdf/1908.10530)
 
