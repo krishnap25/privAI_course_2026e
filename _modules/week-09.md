@@ -12,4 +12,5 @@ Mar 18
 
 Mar 19
 : Private LLM inference (Lecture by [Vishnu Vinod](https://vishnuvinod8.github.io/))
-  : Reading - [Invisible Ink](https://arxiv.org/pdf/2507.02974)
+  : Reading -  [Smith-Ullman notes on exponential mechanism](https://dpcourse.github.io/2021-spring/lecnotes-web/lec-06-exp-mech.pdf)
+ and [Invisible Ink](https://arxiv.org/pdf/2507.02974)
